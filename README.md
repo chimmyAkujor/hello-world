@@ -1,2 +1,2 @@
 # hello-world
-my name is chimere aka theKipngPipes, and i am learning how to use github
+my name is chimere and i am learning how to use github
